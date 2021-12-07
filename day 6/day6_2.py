@@ -46,4 +46,4 @@ def main():
         print(f"Ran in {perf_counter() - start:0.5f} seconds")
         print(sum(fish_counts))
 
-main()
+main() 
